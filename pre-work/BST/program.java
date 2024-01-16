@@ -1,8 +1,8 @@
 public class program {
+    public static void main(String[] args) {
+        
+        // use the bst
 
-	public static void main(String[] args) {
-
-		System.out.println("Hello, World!");
-
-	}
+    }
+    
 }
